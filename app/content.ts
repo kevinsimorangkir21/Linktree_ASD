@@ -1,6 +1,6 @@
 export const codeRepository = "LinkTree";
 export const githubUsername = "kevinsimorangkir21";
-export const heading = "LinkTree | ASD RA n RC";
+export const heading = "LinkTree | ASD RA & RC";
 export const slogan = {
   words: "Every strike brings me",
   hightlight: "closer to the next home run",
