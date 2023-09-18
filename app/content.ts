@@ -20,7 +20,7 @@ export const Cards = [
     description: "Daftar Absensi Mahasiswa dari Kelas RA dan RC yang digunakan Asisten Praktikum",
   },
   {
-    href: "#",
+    href: "https://github.com/kevinsimorangkir21/PraktikumAlgoritmaASD",
     icon: "code",
     title: "Source Code",
     description: "Kumpulan Source Code pembahasan selama Praktikum ASD RA dan RC.",
