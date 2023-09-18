@@ -19,7 +19,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Dibuat oleh Asprak RA & RD{" "}
+            Dibuat oleh Asprak RA & RC{" "}
             <Image
               src="/github.svg"
               alt="Github Logo"
