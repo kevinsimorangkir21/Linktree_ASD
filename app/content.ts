@@ -43,4 +43,10 @@ export const Cards = [
     title: "Referensi",
     description: "Beberapa referensi dalam pendukung praktikum/pembelajaran ASD",
   },
+  {
+    href: "#",
+    icon: "group",
+    title: "WhatsApp Group",
+    description: "Fitur yang digunakan untuk komunikasi antar Asisten dengan Praktikan",
+  },
 ];
