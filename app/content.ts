@@ -8,7 +8,7 @@ export const slogan = {
 
 export const Cards = [
   {
-    href: "#",
+    href: "https://drive.google.com/drive/folders/1e0KfVAYbg7XPmIsBbiOAW9zPbP4VvpCV?usp=sharing",
     icon: "clipboard",
     title: "Template Laporan",
     description: "Tempat Template Laporan ASD yang digunakan pada saat praktikum dan dikumpulkan sesuai batas waktunya",
