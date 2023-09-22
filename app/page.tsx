@@ -21,7 +21,7 @@ export default function Home() {
           >
             Dibuat oleh Asprak RA & RC{" "}
             <Image
-              src="/github.svg"
+              src="public/logo_asd.svg"
               alt="Github Logo"
               className={styles.vercelLogo}
               width={24}
