@@ -44,9 +44,9 @@ export const Cards = [
     description: "Beberapa referensi dalam pendukung praktikum/pembelajaran ASD",
   },
   {
-    href: "#",
+    href: "https://classroom.google.com/c/NjE5NzkyMDUzNTA3?cjc=eika5pf",
     icon: "group",
-    title: "WhatsApp Group",
+    title: "Google Classroom",
     description: "Fitur yang digunakan untuk komunikasi antar Asisten dengan Praktikan",
   },
 ];
