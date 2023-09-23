@@ -32,11 +32,11 @@ export default function Home() {
         </div>
       </div>
 
-      {/* <div className={styles.center}>
+      <div className={styles.center}>
         <div className={styles.thirteen}>
-          <img src="public/asd.webp" alt="Gambar" width="280" height="280" />
+          <img src="public/asd.svg" alt="Gambar" width="280" height="280" />
         </div>
-      </div> */}
+      </div>
 
       <div className={styles.grid}>
         {Cards.map((card, index) => {
