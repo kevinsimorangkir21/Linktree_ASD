@@ -32,7 +32,7 @@ export const Cards = [
     description: "Fitur yang digunakan untuk seru - seruan selama Praktikum ASD RA dan RC",
   },
   {
-    href: "#",
+    href: "https://forms.gle/ku2SN15cc5mxABrp7",
     icon: "presensi",
     title: "Presensi Praktikum",
     description: "Fitur yang digunakan oleh Praktikan untuk Presensi kehadiran selama Praktikum",
